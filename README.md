@@ -1,2 +1,2 @@
 # funny-code
-Scripts and programs that I wrote for LOLz
+Scripts and programs that I wrote for laughs
